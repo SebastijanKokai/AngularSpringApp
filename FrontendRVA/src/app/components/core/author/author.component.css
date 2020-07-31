@@ -1,0 +1,13 @@
+.about-image {
+  border-radius: var(--border-radius-small);
+}
+
+.profile-list li {
+  margin: 0.3rem 0;
+}
+
+.profile-list strong {
+  display: inline-block;
+  width: 30%;
+  margin-right: 1rem;
+}
